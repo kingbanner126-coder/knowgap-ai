@@ -1,6 +1,0 @@
-{
-  "name": "KnowGap AI – Phát hiện lỗ hổng kiến thức",
-  "description": "Ứng dụng AI phân tích kết quả bài kiểm tra, phát hiện lỗ hổng kiến thức và đề xuất lộ trình học cá nhân hóa cho sinh viên.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
